@@ -1,0 +1,27 @@
+{
+    "name": "OG Apps",
+    "identifier": "com.apad.OGApps",
+    "sourceURL": "https://cdn.apad.live/files/ogapps/ogapps.json",
+    "apps": [
+      {
+        "name": "OG YouTube",
+        "bundleIdentifier": "com.google.ios.youtube",
+        "developerName": "APAD",
+        "subtitle": "The old version of the YouTube app",
+        "version": "15.02.1",
+        "versionDate": "2022-04-09T20:43:00+02:00",
+        "versionDescription": "We fixed the tubes that bring you videos – and some bugs too.",
+        "downloadURL": "https://raw.githubusercontent.com/apad2025/cdn/main/files/ogapps/OGYouTube.ipa",
+        "localizedDescription": "Make watching your favorite videos easier with the YouTube app. Explore brand new content, music, news and more with the official YouTube app for iPhone and iPad.\n\nGet more out of your video streaming app and discover even more with YouTube.\n\nYOUTUBE FEATURES:DISCOVER BRAND NEW CONTENT\n\n- Browse YouTube’s personal recommendations on the home tab\n- Watch the hottest videos, from music to viral sensations on the trending tab\n- Like something? Tap like to save to your personal list or share with your friends!\n\nSTREAM MUSIC\n- Find the videos of the latest hits!\n- Watch fresh releases from popular and trending artists\n\nLIVE STREAMS & MORE\n- Get the latest news or watch your favorite popular live streams right on your device!\n\nLEARN FROM THE BEST\n- Practice and learn alongside the best online\n- Watch videos and learn any skill you need\n- Explore thousands of videos for makeup, DIY, tips and more!\n\nCONNECT AND SHARE\n- Let people know how you feel with likes, comments, or shares\n- Directly share your friends favorite videos with your friends\n- Make a playlist that saves your favorite videos\n- See the latest from the creators you follow on the subscriptions tab\n\nDownload the official YouTube app and start watching your favorite videos today!",
+        "iconURL": "https://raw.githubusercontent.com/apad2025/cdn/main/files/ogapps/youtubeicon.png",
+        "size": 7600000,
+        "screenshotURLs": [
+          "https://raw.githubusercontent.com/apad2025/cdn/main/files/ogapps/300x0w.png",
+          "https://raw.githubusercontent.com/apad2025/cdn/main/files/ogapps/300x0w%20(1).png",
+          "https://raw.githubusercontent.com/apad2025/cdn/main/files/ogapps/300x0w%20(2).png",
+          "https://raw.githubusercontent.com/apad2025/cdn/main/files/ogapps/300x0w%20(3).png",
+          "https://raw.githubusercontent.com/apad2025/cdn/main/files/ogapps/300x0w%20(4).png"
+        ]
+      }
+    ]
+  }
